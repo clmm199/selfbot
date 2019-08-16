@@ -17,7 +17,7 @@ from time import sleep
 from googletrans import Translator
 import youtube_dl
 #===============================#
-sepri = LINE('EGwAAHyiqkF6TqeDC1V0.dJDcqR7GElvv2z8FUzJX8a.02kYz/KISGNYidIARy8G+OIwgOoXe+sMDMw6aNRQ8yI=')
+sepri = LINE('')
 sepri.log("Auth Token : " + str(sepri.authToken))
 print ("=== LOGIN SUCCES ===\n =[Sepri bot siap digunakan]=\n =TEAM FUNKZHER BOT PROTECTION=")
 #===============================#
@@ -25,10 +25,10 @@ oepoll = OEPoll(sepri)
 call = (sepri)
 mid = sepri.getProfile().mid
 Bots = [mid]
-creator = ["u6f1112c9bbfad6fff10c8ab086ab3504"]
-owner = ["u6f1112c9bbfad6fff10c8ab086ab3504"]
-admin = ["u6f1112c9bbfad6fff10c8ab086ab3504"]
-staff = ["u6f1112c9bbfad6fff10c8ab086ab3504"]
+creator = ["u2a5dba89eb97604b3cc4a8f5029c985b"]
+owner = ["u2a5dba89eb97604b3cc4a8f5029c985b"]
+admin = ["u2a5dba89eb97604b3cc4a8f5029c985b"]
+staff = ["u2a5dba89eb97604b3cc4a8f5029c985b"]
 #===============================#
 myProfile = {
 	"displayName": "",
