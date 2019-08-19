@@ -17,7 +17,7 @@ from time import sleep
 from googletrans import Translator
 import youtube_dl
 #===============================#
-sepri = LINE("Kkami8460@gmail.com","Ludoludo")
+sepri = LINE("")
 sepri.log("Auth Token : " + str(sepri.authToken))
 print ("=== LOGIN SUCCES ===\n =[Sepri bot siap digunakan]=\n =TEAM FUNKZHER BOT PROTECTION=")
 #===============================#
