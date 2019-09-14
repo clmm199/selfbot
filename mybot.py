@@ -25,10 +25,10 @@ oepoll = OEPoll(sepri)
 call = (sepri)
 mid = sepri.getProfile().mid
 Bots = [mid]
-creator = ["ub3f335976aa8bef1bf41fe85fb2e0d0e"]
-owner = ["ub3f335976aa8bef1bf41fe85fb2e0d0e"]
-admin = ["ub3f335976aa8bef1bf41fe85fb2e0d0e"]
-staff = ["ub3f335976aa8bef1bf41fe85fb2e0d0e"]
+creator = ["u8d312de255824ab66d8ed1026d6491a6"]
+owner = ["u8d312de255824ab66d8ed1026d6491a6"]
+admin = ["u8d312de255824ab66d8ed1026d6491a6"]
+staff = ["u8d312de255824ab66d8ed1026d6491a6"]
 #===============================#
 myProfile = {
 	"displayName": "",
@@ -409,7 +409,7 @@ def help():
                   "╠❂➣ " + key + "Listadmin\n" + \
                   "╠❂➣ " + key + "Listprotect\n" + \
                   "╠════════════╗" + "\n" + \
-                  "      FUNKZHER BOT PROTECTION " + "\n" + \
+                  "      shooter BOT PROTECTION " + "\n" + \
                   "╠════════════╝" + "\n" + \
                   "╠════════════╗" + "\n" + \
                   "◄]·✪line.me/ti/p/~sepriche✪·[►" + "\n" + \
